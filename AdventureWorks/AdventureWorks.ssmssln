@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "AdventureWorks", "AdventureWorks\AdventureWorks.ssmssqlproj", "{0C5A0A47-9394-4D17-AABB-90580E00DC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5A0A47-9394-4D17-AABB-90580E00DC6C}.Default|Default.ActiveCfg = Default
+		{9917B881-6ED7-499C-B30A-AB1092626038}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93065DF4-06B6-4A3D-AA36-963083CE4542}
+	EndGlobalSection
+EndGlobal
