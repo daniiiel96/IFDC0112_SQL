@@ -1,0 +1,8 @@
+﻿TipoProducto;PK_TipoProducto;FK_Categoria_Producto
+Musica;1;1
+TV;2;1
+Aplicaciones;3;1
+PC;4;2
+Celulares;5;2
+Tablets;6;2
+Accesorios;7;2

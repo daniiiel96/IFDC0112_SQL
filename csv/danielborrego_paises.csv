@@ -1,0 +1,57 @@
+﻿PK_Pais;Region;CodigoPais;Pais;FK_Continente
+1;AGO - África/Angola;AGO;Angola;1
+2;ARG - América/Argentina;ARG;Argentina;2
+6;BRA - América/Brasil;BRA;Brasil;2
+3;AUS - Oceanía/Australia;AUS;Australia;3
+4;AUT - Europa/Austria;AUT;Austria;4
+5;BEL - Europa/Bélgica;BEL;Bélgica;4
+7;CAN - América/Canadá;CAN;Canadá;2
+8;CHE - Europa/Suiza;CHE;Suiza;4
+9;CHL - América/Chile;CHL;Chile;2
+10;CHN - Asia/China;CHN;China;5
+11;CMR - África/Camerún;CMR;Camerún;1
+12;COL - América/Colombia;COL;Colombia;2
+13;CRI - América/Costa Rica;CRI;Costa Rica;2
+14;CZE - Europa/República Checa;CZE;República Checa;4
+15;DEU - Europa/Alemania;DEU;Alemania;4
+16;DOM - América/República Dominicana;DOM;República Dominicana;2
+17;DZA - África/Argelia;DZA;Argelia;1
+18;ECU - América/Ecuador;ECU;Ecuador;2
+19;EGY - África/Egipto;EGY;Egipto;1
+20;ESP - Europa/España;ESP;España;4
+21;FIN - Europa/Finlandia;FIN;Finlandia;4
+22;FRA - Europa/Francia;FRA;Francia;4
+23;GBR - Europa/Reino Unido;GBR;Reino Unido;4
+24;GRC - Europa/Grecia;GRC;Grecia;4
+25;GTM - América/Guatemala;GTM;Guatemala;2
+26;HUN - Europa/Hungría;HUN;Hungría;4
+27;IDN - Asia/Indonesia;IDN;Indonesia;5
+28;IND - Asia/India;IND;India;5
+29;IRL - Europa/Irlanda;IRL;Irlanda;4
+30;IRN - Asia/Irán;IRN;Irán;5
+31;ISR - Asia/Israel;ISR;Israel;5
+32;ITA - Europa/Italia;ITA;Italia;4
+33;JPN - Asia/Japón;JPN;Japón;5
+34;KEN - África/Kenia;KEN;Kenia;1
+35;KOR - Asia/República de Corea;KOR;República de Corea;5
+36;MEX - América/México;MEX;México;2
+37;MYS - Asia/Malasia;MYS;Malasia;5
+38;NGA - África/Nigeria;NGA;Nigeria;1
+39;NOR - Europa/Noruega;NOR;Noruega;4
+40;PER - América/Perú;PER;Perú;2
+41;PHL - Asia/Filipinas;PHL;Filipinas;5
+42;POL - Europa/Polonia;POL;Polonia;4
+43;PRT - Europa/Portugal;PRT;Portugal;4
+44;RUS - Asia/Rusia;RUS;Rusia;5
+45;SDN - África/Sudán;SDN;Sudán;1
+46;SVK - Europa/Eslovaquia;SVK;Eslovaquia;4
+47;SWE - Europa/Suecia;SWE;Suecia;4
+48;THA - Asia/Tailandia;THA;Tailandia;5
+49;TUR - Asia/Turquía;TUR;Turquía;5
+50;TZA - África/Tanzania;TZA;Tanzania;1
+51;UKR - Europa/Ucrania;UKR;Ucrania;4
+52;USA - América/Estados Unidos;USA;Estados Unidos;2
+53;VEN - América/Venezuela;VEN;Venezuela;2
+54;YEM - Asia/Yemen;YEM;Yemen;5
+55;ZAF - África/Sudáfrica;ZAF;Sudáfrica;1
+56;NZL - Oceanía/Nueva Zelanda;NZL;Nueva Zelanda;3
